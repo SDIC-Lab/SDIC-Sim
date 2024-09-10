@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jacopo"
+  given-names: "Quercia"
+  orcid: "https://orcid.org/0000-0003-1140-5006"
+- family-names: "Filippo"
+  given-names: "Mele"
+  orcid: "https://orcid.org/0000-0002-7882-6879"
+- family-names: "Iurii"
+  given-names: "Eremeev"
+  orcid: "https://orcid.org/0000-0002-4449-5784"
+- family-names: "Giuseppe"
+  given-names: "Bertuccio"
+  orcid: "https://orcid.org/0000-0002-7283-021X"
+title: "An Open-source Monte Carlo Simulator for High-Z Semiconductor Detectors with a Charge Cloud Discretization Method"
+version: 1.0.0
+doi: 
+date-released: 2024-09-10
+url: "https://github.com/SDIC-Lab/SDIC-Sim"
