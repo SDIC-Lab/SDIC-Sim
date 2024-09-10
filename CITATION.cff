@@ -15,6 +15,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-7283-021X"
 title: "An Open-source Monte Carlo Simulator for High-Z Semiconductor Detectors with a Charge Cloud Discretization Method"
 version: 1.0.0
-doi: 
+doi: 10.5281/zenodo.13742340
 date-released: 2024-09-10
 url: "https://github.com/SDIC-Lab/SDIC-Sim"
