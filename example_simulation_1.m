@@ -4,7 +4,7 @@ clear all;
 clc;
 
 % add path for simulator repository
-addpath("\\10.79.34.83\Laboratorio\4 - Quercia\HighZsim\OOPv2")
+addpath("\\your_home\HighZsim\OOPv2")
 
 myGeometry = geometryClass(); 
 
@@ -149,7 +149,7 @@ disp("Simulation ended, total elapsed time is "+char(s)+" min")
 % Save simulated spectra in specified folder 
 % Specify the directory where you want to create the new folder
 % For example, creating the folder in the current working directory:
-baseDir = "\\10.79.34.83\Laboratorio\4 - Quercia\Work\11 - Publications\quercia2024montecarlo\simulator validation\Simulation results"; % Change this to any directory you prefer
+baseDir = "\\your_home\simulator validation\Simulation results"; % Change this to any directory you prefer
 
 % Get the current date and time in a specific format
 % For example, 'yyyy-mm-dd_HH-MM-SS' format
