@@ -4,7 +4,7 @@ clear all;
 clc;
 
 % add path for simulator repository
-addpath("\\10.79.34.83\Laboratorio\4 - Quercia\HighZsim\OOPv2")
+addpath("\\your_home\HighZsim\OOP")
 
 myGeometry = geometryClass(); 
 
